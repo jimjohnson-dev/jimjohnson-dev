@@ -11,7 +11,7 @@ I’m a software engineering leader with 20+ years of experience spanning IC and
 ---
 
 ## 🔭 Featured Projects
-- [**File Sanitization Toolkit**](https://github.com/jimjohnson-dev/file-sanitization-toolkit)
+- [**File Sanitization Toolkit**](https://github.com/jimjohnson-dev/file-sanitization-toolkit)  
   Python utilities to detect, sanitize and normalize filenames and file contents to remove unsafe characters and sensitive data.
   
 - [**Skillgarden**](#) (private work in progress)  
