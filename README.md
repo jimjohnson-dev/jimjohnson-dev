@@ -11,14 +11,16 @@ I’m a software engineering leader with 20+ years of experience spanning IC and
 ---
 
 ## 🔭 Featured Projects
-
+- [**File Sanitization Toolkit**](https://github.com/jimjohnson-dev/file-sanitization-toolkit)
+  Python utilities to detect, sanitize and normalize filenames and file contents to remove unsafe characters and sensitive data.
+  
 - [**Skillgarden**](#) (private work in progress)  
   Class registration platform (Angular + Node.js, AWS/Hostinger backend). Features automated confirmation emails, Google Calendar integration, and instructor dashboards.  
 
 - [**Career Repository**](#) (private work in progress)  
   A structured system for logging, normalizing, and generating ATS-optimized resumes using GitHub + Claude/Copilot automation.  
 
-- [**Chipload Calculator**](https://github.com/cerberus6106/ChiploadCalculator)  
+- [**Chipload Calculator**](https://github.com/jimjohnson-dev/ChiploadCalculator)  
   A utility for CNC machinists to calculate proper chip load values for tooling. Simple, functional, and designed for hobbyist CNC use.  
 
 ---
