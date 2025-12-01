@@ -42,12 +42,6 @@ I work in the space where backend systems, product behavior, and distributed dat
 
 ---
 
-## 📌 Featured Projects
-
-**Coming soon**
-
----
-
 ## 🛠 Technologies I Use
 
 **Languages:** Go, Python, JavaScript, TypeScriptC#
