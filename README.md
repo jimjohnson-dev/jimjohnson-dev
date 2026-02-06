@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jim Johnson
 
-### **Technical Engineering Manager specializing in backend systems, distributed workflows, and data-driven product features.**
+### **Senior Software Engineer / Technical Lead specializing in backend systems, distributed workflows, and data-driven product features.**
 
 I build and debug backend systems that have to work under real-world conditions—distributed data, inconsistent inputs, high-volume workflows, and the invisible failure modes that show up when services depend on each other.
 
