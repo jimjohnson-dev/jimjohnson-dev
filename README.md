@@ -1,29 +1,26 @@
 # Jim Johnson
 
-Backend engineer focused on distributed systems, event-driven workflows, and data pipelines.
-
-Most of my work sits at the boundaries where systems fail: service interfaces, retry semantics, concurrency, ordering guarantees, and cross-service data flow. I spend most of my time debugging behavior that only appears when multiple services interact under real workloads.
-
-The large-scale systems I’ve worked on live in private company repositories. The public repositories here are mostly tooling, experiments, and internal instruments used to reason about systems and automate operational work.
+Backend and distributed systems engineer with 20+ years building and operating high-throughput, event-driven platforms. Most recently owned a notifications platform delivering 50M messages per week — redesigned its architecture to eliminate 963M annual webhook sends and cut messaging costs by 56%, and led the Retailer Affinity experiment that generated $11M in annualized GMV within two weeks of rollout.
+Most of my production work lives in private company repositories. The public repositories here are tooling, experiments, and instruments I use to reason about systems and automate operational work. They reflect how I think about problems, not the scale I've operated at.
 
 * * *
 
 ## Systems Experience
 
 **LTK**  
-Distributed notification infrastructure delivering tens of millions of messages per week across push, email, SMS, and in-app channels.
+Distributed notification infrastructure delivering tens of millions of messages per week across push, email, SMS, and in-app channels. Redesigned delivery paths to eliminate 963M annual webhook sends and reduce messaging costs by **56%**.
 
 **MyFitnessPal**  
-Backend modernization and event ingestion pipelines supporting a 220M-user platform.
+Backend modernization and event ingestion pipelines supporting a 220M-user platform. Owned the microservices migration that improved deployment latency by **25%** and increased fault isolation across the service fleet.
 
 **2U**  
-Reliability improvements across APIs, queues, caching layers, and search systems powering large-scale learning platforms.
+Reliability improvements across APIs, queues, caching layers, and search systems powering large-scale learning platforms. Designed and launched an **AI-based transcript translation pipeline** supporting **11 languages**.
 
 **OSIsoft**  
-Cloud-hosted telemetry ingestion pipelines processing industrial time-series data from distributed customer installations.
+Cloud-hosted telemetry ingestion pipelines processing industrial time-series data from distributed customer installations. Built observability tooling that reduced mean time to resolve production issues by **30%**.
 
 **Kraken Forge**  
-Independent work building internal engineering tools and research instruments for operational analysis and automation.
+Independent work building healthcare workflow systems and internal engineering tools. Delivered a patient assignment system and discharge coordination platform now in active use across hospital shifts.
 
 * * *
 
